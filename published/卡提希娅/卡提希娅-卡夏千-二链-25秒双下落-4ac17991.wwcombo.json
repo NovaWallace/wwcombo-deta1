@@ -7,7 +7,7 @@
     "tags": [],
     "version": 1,
     "createdAt": 1784475776616,
-    "updatedAt": 1785063420340,
+    "updatedAt": 1785158405707,
     "startTriggerMoveId": "start_challenge",
     "stopTriggerMoveId": "stop_recording",
     "steps": [
@@ -6427,14 +6427,14 @@
         "千咲"
       ],
       "rounds": 4,
-      "uploadVersion": "3.5",
       "wheelchairEligible": false,
       "exportedAt": 1784995580946,
+      "uploadVersion": "3.5",
       "title": "卡夏千 二链 25秒双下落",
       "sourceFile": "卡夏千-二链-25秒双下落-wwc_a4f3074e-6563-4a39-b1af-f54befe699d4.wwcombo.json",
       "sourceHash": "bc8b713190533158bfebb5896f36e75daa28c51b9e7c0d694a7b200de4806b30",
       "chartHash": "4ac179918022a0e4d1b72c9df4eb552f43e7d60908a1548a51933330b3b50090",
-      "ingestedAt": 1785063420341,
+      "ingestedAt": 1785158405708,
       "submitter": {
         "nickname": "灵*****",
         "email": "hl***@foxmail.com"
