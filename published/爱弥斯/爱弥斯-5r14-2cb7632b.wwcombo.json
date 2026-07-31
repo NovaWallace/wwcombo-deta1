@@ -9,7 +9,7 @@
     ],
     "version": 1,
     "createdAt": 1785149558726,
-    "updatedAt": 1785166629049,
+    "updatedAt": 1785474249627,
     "startTriggerMoveId": "start_challenge",
     "stopTriggerMoveId": "stop_recording",
     "steps": [
@@ -5642,15 +5642,16 @@
       "exportedAt": 1785165605167,
       "uploadVersion": "3.5",
       "title": "爱达千 5R14光翼",
-      "sourceFile": "爱达千-5R14光翼-wwc_d80b10a4-1618-4611-b311-d046979822e1.wwcombo.json",
+      "sourceFile": "爱达千 5R14光翼-wwc_d80b10a4-1618-4611-b311-d046979822e1.wwcombo (1).json",
       "sourceHash": "f6d9a9ce1bbfae83a61923ae939fada663947e600afa77f856af9153e9d81e93",
       "chartHash": "2cb7632b84465f64302bb6bb295591aa594032039f983c0144f01389c41b33dd",
-      "ingestedAt": 1785166629050,
+      "ingestedAt": 1785474249628,
       "submitter": {
-        "nickname": "灵*****",
-        "email": "hl***@foxmail.com"
+        "nickname": "unknown",
+        "email": "un***@unknown.invalid"
       }
-    }
+    },
+    "author": "unknown"
   },
   "contentLabels": {
     "0fd16c0e-1f08-49b7-ab74-c0b82e708e65": "f",

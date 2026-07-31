@@ -1,0 +1,5055 @@
+{
+  "type": "wwcombo-chart",
+  "version": 3,
+  "chart": {
+    "id": "1c7421fc-2b59-49a0-9330-6f235d788b8e",
+    "title": "赞菲光轮椅4终夜启动+循环",
+    "tags": [
+      "进阶"
+    ],
+    "version": 1,
+    "createdAt": 1785389547099,
+    "updatedAt": 1785474249647,
+    "startTriggerMoveId": "start_challenge",
+    "stopTriggerMoveId": "stop_recording",
+    "steps": [
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_1",
+        "moveId": "skill_hold",
+        "label": "长按技能",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 254,
+        "startMax": 554,
+        "durationMin": 165,
+        "durationMax": 405,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 374.059814453125,
+            "duration": 300
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_3",
+        "moveId": "liberation",
+        "label": "共鸣解放",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 653,
+        "startMax": 953,
+        "durationMin": 69,
+        "durationMax": 172,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ff6b6b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 772.6078613325953,
+            "duration": 126.74448242038488
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_4",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 2482,
+        "startMax": 2782,
+        "durationMin": 62,
+        "durationMax": 155,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 2601.6965820342302,
+            "duration": 114.27739257365465
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_7",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 3862,
+        "startMax": 4162,
+        "durationMin": 35,
+        "durationMax": 83,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 3981.5078125,
+            "duration": 61.061767578125
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_11",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 4492,
+        "startMax": 4792,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 4612.22109375149,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_12",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 4605,
+        "startMax": 4905,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 4725.06582031399,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_13",
+        "moveId": "echo",
+        "label": "声骸",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 4695,
+        "startMax": 4995,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#b983ff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 4815.35878906399,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_14",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 4731,
+        "startMax": 5031,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 4850.63417968899,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_16",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 4921,
+        "startMax": 5221,
+        "durationMin": 229,
+        "durationMax": 564,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 5040.981298826635,
+            "duration": 417.42304687947035
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_19",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 5417,
+        "startMax": 5717,
+        "durationMin": 53,
+        "durationMax": 132,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 5536.628564454615,
+            "duration": 97.36088867485523
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_21",
+        "moveId": "switch_3",
+        "label": "3",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 5648,
+        "startMax": 5948,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#577590",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 5767.51826172322,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_22",
+        "moveId": "liberation",
+        "label": "共鸣解放",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 5843,
+        "startMax": 6143,
+        "durationMin": 41,
+        "durationMax": 101,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ff6b6b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 5962.618017576635,
+            "duration": 74.73847656697035
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_23",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 7949,
+        "startMax": 8249,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 8069.00634765625,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_24",
+        "moveId": "echo",
+        "label": "声骸",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 8010,
+        "startMax": 8310,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#b983ff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 8129.950048826635,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_26",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 8224,
+        "startMax": 8524,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 8343.915087893605,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_27",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 8243,
+        "startMax": 8543,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 8362.998779296875,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_28",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 8399,
+        "startMax": 8699,
+        "durationMin": 233,
+        "durationMax": 574,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 8519.43427734822,
+            "duration": 425.057373046875
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_33",
+        "moveId": "switch_2",
+        "label": "2",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 9075,
+        "startMax": 9375,
+        "durationMin": 70,
+        "durationMax": 173,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#4d908e",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 9194.94785156101,
+            "duration": 127.59228515625
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_34",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 9214,
+        "startMax": 9514,
+        "durationMin": 234,
+        "durationMax": 576,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 9333.806201174855,
+            "duration": 426.5042968764901
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_37",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 9702,
+        "startMax": 10002,
+        "durationMin": 166,
+        "durationMax": 408,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 9821.75537109375,
+            "duration": 302.0348144546151
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_39",
+        "moveId": "echo",
+        "label": "声骸",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 10019,
+        "startMax": 10319,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#b983ff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 10138.885009765625,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_40",
+        "moveId": "dodge_hold",
+        "label": "长按闪避",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 10087,
+        "startMax": 10387,
+        "durationMin": 60,
+        "durationMax": 148,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ffad4a",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 10206.950048826635,
+            "duration": 109.23027344048023
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_41",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 10234,
+        "startMax": 10534,
+        "durationMin": 256,
+        "durationMax": 631,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 10354.28007812798,
+            "duration": 466.86054687201977
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_45",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 10777,
+        "startMax": 11077,
+        "durationMin": 228,
+        "durationMax": 560,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 10897.14199218899,
+            "duration": 414.67011718451977
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_48",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 11256,
+        "startMax": 11556,
+        "durationMin": 61,
+        "durationMax": 151,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 11376.15800781548,
+            "duration": 111.44907226413488
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_49",
+        "moveId": "dodge_hold",
+        "label": "长按闪避",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 11524,
+        "startMax": 11824,
+        "durationMin": 69,
+        "durationMax": 172,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ffad4a",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 11643.917041018605,
+            "duration": 126.786865234375
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_50",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 11731,
+        "startMax": 12031,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 11851.333935551345,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_51",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 12277,
+        "startMax": 12577,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 12396.85703124851,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_52",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 12383,
+        "startMax": 12683,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 12503.19619140774,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_53",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 12418,
+        "startMax": 12718,
+        "durationMin": 50,
+        "durationMax": 124,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 12537.76582031697,
+            "duration": 91.32573241740465
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_58",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 12771,
+        "startMax": 13071,
+        "durationMin": 57,
+        "durationMax": 141,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 12891.304150395095,
+            "duration": 103.87827148288488
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_62",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 12983,
+        "startMax": 13283,
+        "durationMin": 54,
+        "durationMax": 135,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 13102.701220706105,
+            "duration": 99.67495117336512
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_64",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 13172,
+        "startMax": 13472,
+        "durationMin": 49,
+        "durationMax": 123,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 13292.152001954615,
+            "duration": 90.89438476413488
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_67",
+        "moveId": "switch_2",
+        "label": "2",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 13409,
+        "startMax": 13709,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#4d908e",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 13528.946923829615,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_68",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 13524,
+        "startMax": 13824,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 13644.173388674855,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_70",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 13689,
+        "startMax": 13989,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 13808.742236331105,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_72",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 13858,
+        "startMax": 14158,
+        "durationMin": 242,
+        "durationMax": 595,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 13977.80000000447,
+            "duration": 440.100341796875
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_75",
+        "moveId": "dodge_hold",
+        "label": "长按闪避",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 14436,
+        "startMax": 14736,
+        "durationMin": 66,
+        "durationMax": 165,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ffad4a",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 14556.378857426345,
+            "duration": 121.49160155653954
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_76",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 14602,
+        "startMax": 14902,
+        "durationMin": 239,
+        "durationMax": 589,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 14721.966796875,
+            "duration": 435.81962890923023
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_79",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 15118,
+        "startMax": 15418,
+        "durationMin": 232,
+        "durationMax": 570,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 15238.47802734375,
+            "duration": 422.00166016072035
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_83",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 15780,
+        "startMax": 16080,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 15899.82998047024,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_88",
+        "moveId": "liberation",
+        "label": "共鸣解放",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 16942,
+        "startMax": 17242,
+        "durationMin": 35,
+        "durationMax": 71,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ff6b6b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 17062.30869140476,
+            "duration": 52.40888672322035
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_92",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 20987,
+        "startMax": 21287,
+        "durationMin": 233,
+        "durationMax": 574,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 21107.026123046875,
+            "duration": 425.04829102009535
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_95",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 21520,
+        "startMax": 21820,
+        "durationMin": 232,
+        "durationMax": 570,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 21640.29863281548,
+            "duration": 422.10917968302965
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_98",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 22020,
+        "startMax": 22320,
+        "durationMin": 226,
+        "durationMax": 555,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 22140.13017578423,
+            "duration": 411.09013671427965
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_101",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 22517,
+        "startMax": 22817,
+        "durationMin": 223,
+        "durationMax": 549,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 22636.586083985865,
+            "duration": 406.12177734076977
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_104",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 23002,
+        "startMax": 23302,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 23121.790478520095,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_105",
+        "moveId": "switch_3",
+        "label": "3",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 23056,
+        "startMax": 23356,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#577590",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 23176.133251957595,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_106",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 23169,
+        "startMax": 23469,
+        "durationMin": 229,
+        "durationMax": 563,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 23289.27470703423,
+            "duration": 416.4881835952401
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_109",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 23659,
+        "startMax": 23959,
+        "durationMin": 152,
+        "durationMax": 376,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 23778.61611328274,
+            "duration": 277.87871094048023
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_111",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 24017,
+        "startMax": 24317,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 24136.87978515774,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_114",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 24181,
+        "startMax": 24481,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 24301.20839843899,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_116",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 24354,
+        "startMax": 24654,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 24473.560546875,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_117",
+        "moveId": "switch_2",
+        "label": "2",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 24367,
+        "startMax": 24667,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#4d908e",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 24486.71718750149,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_118",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 25376,
+        "startMax": 25676,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 25496.02236328274,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_119",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 25409,
+        "startMax": 25709,
+        "durationMin": 74,
+        "durationMax": 183,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 25529.04541015625,
+            "duration": 135.41005859524012
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_120",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 25562,
+        "startMax": 25862,
+        "durationMin": 42,
+        "durationMax": 104,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 25682.30830078572,
+            "duration": 76.74428710341454
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_121",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 25657,
+        "startMax": 25957,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 25777.324755862355,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_122",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 25730,
+        "startMax": 26030,
+        "durationMin": 47,
+        "durationMax": 118,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 25849.786181643605,
+            "duration": 87.04545897990465
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_123",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 25898,
+        "startMax": 26198,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 26017.582177735865,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_125",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 26077,
+        "startMax": 26377,
+        "durationMin": 236,
+        "durationMax": 581,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 26197.491455078125,
+            "duration": 430.0833984389901
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_128",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 26591,
+        "startMax": 26891,
+        "durationMin": 223,
+        "durationMax": 550,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 26711.21464844048,
+            "duration": 407.199951171875
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_131",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 27092,
+        "startMax": 27392,
+        "durationMin": 142,
+        "durationMax": 351,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 27211.74726562947,
+            "duration": 259.65053710341454
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_133",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 27427,
+        "startMax": 27727,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 27546.733837895095,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_134",
+        "moveId": "switch_2",
+        "label": "2",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 27532,
+        "startMax": 27832,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#4d908e",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 27651.81767578423,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_146",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 29459,
+        "startMax": 29759,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 29579.049365237355,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_147",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 29609,
+        "startMax": 29909,
+        "durationMin": 47,
+        "durationMax": 117,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 29728.75898437947,
+            "duration": 86.23188476264477
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_148",
+        "moveId": "switch_3",
+        "label": "3",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 29767,
+        "startMax": 30067,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#577590",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 29886.83808594197,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_149",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 29782,
+        "startMax": 30082,
+        "durationMin": 36,
+        "durationMax": 90,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 29902.18730469048,
+            "duration": 65.92915038764477
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_151",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 29938,
+        "startMax": 30238,
+        "durationMin": 232,
+        "durationMax": 570,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 30058.31943359226,
+            "duration": 422.1866699233651
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_154",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 30425,
+        "startMax": 30725,
+        "durationMin": 165,
+        "durationMax": 405,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 30544.87519531697,
+            "duration": 300
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_155",
+        "moveId": "heavy_attack",
+        "label": "重击",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 30725,
+        "startMax": 31025,
+        "durationMin": 81,
+        "durationMax": 200,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#62b6cb",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 30844.87519531697,
+            "duration": 147.883544921875
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_156",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 30930,
+        "startMax": 31230,
+        "durationMin": 245,
+        "durationMax": 603,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 31050.14238281548,
+            "duration": 446.6615234389901
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_159",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 31387,
+        "startMax": 31687,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 31506.98476562649,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_160",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 31438,
+        "startMax": 31738,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 31558.123583987355,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_162",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 31604,
+        "startMax": 31904,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 31724.115771487355,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_164",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 31772,
+        "startMax": 32072,
+        "durationMin": 241,
+        "durationMax": 593,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 31892.155908204615,
+            "duration": 438.6441894546151
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_167",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 32288,
+        "startMax": 32588,
+        "durationMin": 237,
+        "durationMax": 583,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 32407.632373049855,
+            "duration": 431.70585937052965
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_170",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 32817,
+        "startMax": 33117,
+        "durationMin": 234,
+        "durationMax": 576,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 32936.69160156697,
+            "duration": 426.2646484375
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_173",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 33327,
+        "startMax": 33627,
+        "durationMin": 44,
+        "durationMax": 109,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 33446.53232421726,
+            "duration": 80.29252929985523
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_174",
+        "moveId": "switch_3",
+        "label": "3",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 33420,
+        "startMax": 33720,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#577590",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 33539.70556640625,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_188",
+        "moveId": "liberation",
+        "label": "共鸣解放",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 34950,
+        "startMax": 35250,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ff6b6b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 35069.51992187649,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_202",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 36982,
+        "startMax": 37282,
+        "durationMin": 35,
+        "durationMax": 50,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 37102.39501953125,
+            "duration": 36.840478517115116
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_205",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 37186,
+        "startMax": 37486,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 37306.268505863845,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_206",
+        "moveId": "switch_2",
+        "label": "2",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 37244,
+        "startMax": 37544,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#4d908e",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 37363.898486331105,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_210",
+        "moveId": "skill_hold",
+        "label": "长按技能",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 38466,
+        "startMax": 38766,
+        "durationMin": 359,
+        "durationMax": 882,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#8aa2ff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 38586.19423828274,
+            "duration": 653.2793457061052
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_211",
+        "moveId": "liberation",
+        "label": "共鸣解放",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 39330,
+        "startMax": 39630,
+        "durationMin": 74,
+        "durationMax": 183,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ff6b6b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 39449.57470703125,
+            "duration": 134.92514648288488
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_217",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 42832,
+        "startMax": 43132,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 42951.996337890625,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_222",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 43302,
+        "startMax": 43602,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 43421.966748051345,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_224",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 43486,
+        "startMax": 43786,
+        "durationMin": 246,
+        "durationMax": 605,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 43606.45390625298,
+            "duration": 447.48613280802965
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_227",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 44022,
+        "startMax": 44322,
+        "durationMin": 213,
+        "durationMax": 524,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 44141.64482422173,
+            "duration": 387.58881835639477
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_230",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 44497,
+        "startMax": 44797,
+        "durationMin": 115,
+        "durationMax": 283,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 44616.82626952976,
+            "duration": 208.34990234673023
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_232",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 44940,
+        "startMax": 45240,
+        "durationMin": 238,
+        "durationMax": 587,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 45088.906982421875,
+            "duration": 434.1808105483651
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_236",
+        "moveId": "switch_2",
+        "label": "2",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 45570,
+        "startMax": 45870,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#4d908e",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 45689.552978515625,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_237",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 45659,
+        "startMax": 45959,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 45779.313037112355,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_239",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 45827,
+        "startMax": 46127,
+        "durationMin": 238,
+        "durationMax": 586,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 45947.141259767115,
+            "duration": 433.6817871108651
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_245",
+        "moveId": "echo",
+        "label": "声骸",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 46694,
+        "startMax": 46994,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#b983ff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 46814.462060548365,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_246",
+        "moveId": "dodge_hold",
+        "label": "长按闪避",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 46760,
+        "startMax": 47060,
+        "durationMin": 57,
+        "durationMax": 141,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ffad4a",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 46879.924169920385,
+            "duration": 104.35629883408546
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_247",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 46961,
+        "startMax": 47261,
+        "durationMin": 165,
+        "durationMax": 405,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 47081.26044922322,
+            "duration": 300
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_248",
+        "moveId": "heavy_attack",
+        "label": "重击",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 47261,
+        "startMax": 47561,
+        "durationMin": 119,
+        "durationMax": 295,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#62b6cb",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 47381.26044922322,
+            "duration": 218.03159179538488
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_249",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 47497,
+        "startMax": 47797,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 47617.401318363845,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_251",
+        "moveId": "liberation",
+        "label": "共鸣解放",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 47654,
+        "startMax": 47954,
+        "durationMin": 62,
+        "durationMax": 153,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ff6b6b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 47773.906103514135,
+            "duration": 112.906005859375
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_267",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 49785,
+        "startMax": 50085,
+        "durationMin": 45,
+        "durationMax": 112,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 49904.50576172024,
+            "duration": 82.40419922024012
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_268",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 49890,
+        "startMax": 50190,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 50010.498291015625,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_269",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 49927,
+        "startMax": 50227,
+        "durationMin": 37,
+        "durationMax": 92,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 50046.502490237355,
+            "duration": 68.00795898586512
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_271",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 50088,
+        "startMax": 50388,
+        "durationMin": 48,
+        "durationMax": 120,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 50208.252001956105,
+            "duration": 88.33017577975988
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_280",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 50805,
+        "startMax": 51105,
+        "durationMin": 53,
+        "durationMax": 132,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 50924.859716795385,
+            "duration": 97.63271484524012
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_282",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 50991,
+        "startMax": 51291,
+        "durationMin": 43,
+        "durationMax": 107,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 51110.75566406548,
+            "duration": 78.85224609076977
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_284",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 51163,
+        "startMax": 51463,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 51282.805322267115,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_287",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 51351,
+        "startMax": 51651,
+        "durationMin": 45,
+        "durationMax": 113,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 51471.248681642115,
+            "duration": 83.091796875
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_288",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 51487,
+        "startMax": 51787,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 51606.62636718899,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_289",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 51520,
+        "startMax": 51820,
+        "durationMin": 50,
+        "durationMax": 125,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 51639.354833982885,
+            "duration": 92.47031250596046
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_292",
+        "moveId": "switch_3",
+        "label": "3",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 51854,
+        "startMax": 52154,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#577590",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 51973.76005859673,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_295",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 52064,
+        "startMax": 52364,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 52184.445751957595,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_296",
+        "moveId": "echo",
+        "label": "声骸",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 52139,
+        "startMax": 52439,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#b983ff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 52258.654296875,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_297",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 52218,
+        "startMax": 52518,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 52338.236767582595,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_299",
+        "moveId": "switch_2",
+        "label": "2",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 52364,
+        "startMax": 52664,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#4d908e",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 52483.862939454615,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_300",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 52392,
+        "startMax": 52692,
+        "durationMin": 240,
+        "durationMax": 592,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 52511.817724607885,
+            "duration": 438.03173828125
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_303",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 52897,
+        "startMax": 53197,
+        "durationMin": 240,
+        "durationMax": 590,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 53016.76826172322,
+            "duration": 436.4209960922599
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_306",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 53412,
+        "startMax": 53712,
+        "durationMin": 54,
+        "durationMax": 135,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 53531.921240232885,
+            "duration": 99.57851562649012
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_307",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 53577,
+        "startMax": 53877,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 53696.572412110865,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_309",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 53745,
+        "startMax": 54045,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 53865.27900391072,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_311",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 53856,
+        "startMax": 54156,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 53976.148974612355,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_323",
+        "moveId": "liberation",
+        "label": "共鸣解放",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 55574,
+        "startMax": 55874,
+        "durationMin": 37,
+        "durationMax": 93,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ff6b6b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 55693.64531250298,
+            "duration": 68.32182616740465
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_324",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 58858,
+        "startMax": 59158,
+        "durationMin": 231,
+        "durationMax": 568,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 58977.58437500149,
+            "duration": 420.4148925766349
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_327",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 59362,
+        "startMax": 59662,
+        "durationMin": 231,
+        "durationMax": 568,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 59482.216845706105,
+            "duration": 420.18754882365465
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_330",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 59862,
+        "startMax": 60162,
+        "durationMin": 230,
+        "durationMax": 566,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 59982.143701173365,
+            "duration": 419.24384765326977
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_333",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 60367,
+        "startMax": 60667,
+        "durationMin": 241,
+        "durationMax": 594,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 60487.32050781697,
+            "duration": 439.27080077677965
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_336",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 60888,
+        "startMax": 61188,
+        "durationMin": 45,
+        "durationMax": 112,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 61007.766064457595,
+            "duration": 82.92402343451977
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_337",
+        "moveId": "switch_3",
+        "label": "3",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 61041,
+        "startMax": 61341,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#577590",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 61160.97353515774,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_338",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 61076,
+        "startMax": 61376,
+        "durationMin": 250,
+        "durationMax": 615,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 61195.71757812798,
+            "duration": 454.9756835922599
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_341",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 61645,
+        "startMax": 61945,
+        "durationMin": 170,
+        "durationMax": 418,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 61765.030517578125,
+            "duration": 309.36982422322035
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_343",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 62051,
+        "startMax": 62351,
+        "durationMin": 44,
+        "durationMax": 111,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 62170.872412107885,
+            "duration": 81.66953125596046
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_344",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 62216,
+        "startMax": 62516,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 62335.656884767115,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_346",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 62374,
+        "startMax": 62674,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 62494.035498045385,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_348",
+        "moveId": "switch_2",
+        "label": "2",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 62504,
+        "startMax": 62804,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#4d908e",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 62623.929052732885,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_349",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 62547,
+        "startMax": 62847,
+        "durationMin": 165,
+        "durationMax": 405,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 62667.29482422024,
+            "duration": 300
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_350",
+        "moveId": "heavy_attack",
+        "label": "重击",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 62847,
+        "startMax": 63147,
+        "durationMin": 279,
+        "durationMax": 686,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#62b6cb",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 62967.29482422024,
+            "duration": 507.771240234375
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_354",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 63943,
+        "startMax": 64243,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 64063.329150393605,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_355",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 63972,
+        "startMax": 64272,
+        "durationMin": 56,
+        "durationMax": 139,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 64092.00820312649,
+            "duration": 102.74370117485523
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_357",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 64142,
+        "startMax": 64442,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 64261.75966797024,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_359",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 64315,
+        "startMax": 64615,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 64434.641650393605,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_361",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 64489,
+        "startMax": 64789,
+        "durationMin": 213,
+        "durationMax": 524,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 64609.105810545385,
+            "duration": 387.73178711533546
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_364",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 64944,
+        "startMax": 65244,
+        "durationMin": 188,
+        "durationMax": 462,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 65064.189111329615,
+            "duration": 342.07792969048023
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_366",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 65367,
+        "startMax": 65667,
+        "durationMin": 229,
+        "durationMax": 564,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 65487.371923826635,
+            "duration": 417.22514648735523
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_371",
+        "moveId": "switch_3",
+        "label": "3",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 66059,
+        "startMax": 66359,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#577590",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 66178.90190429986,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_377",
+        "moveId": "heavy_attack",
+        "label": "重击",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 67134,
+        "startMax": 67434,
+        "durationMin": 61,
+        "durationMax": 152,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#62b6cb",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 67253.77924805135,
+            "duration": 112.30937499552965
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_378",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 67303,
+        "startMax": 67603,
+        "durationMin": 248,
+        "durationMax": 611,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 67423.18535156548,
+            "duration": 452.4794921875
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_386",
+        "moveId": "liberation",
+        "label": "共鸣解放",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 68362,
+        "startMax": 68662,
+        "durationMin": 49,
+        "durationMax": 122,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ff6b6b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 68481.71933593601,
+            "duration": 89.720703125
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_390",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 70880,
+        "startMax": 71180,
+        "durationMin": 70,
+        "durationMax": 172,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 70521.50551757962,
+            "duration": 127.400146484375
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_397",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 71100,
+        "startMax": 71400,
+        "durationMin": 240,
+        "durationMax": 592,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 71220.28232421726,
+            "duration": 437.86772461235523
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_400",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 71610,
+        "startMax": 71910,
+        "durationMin": 244,
+        "durationMax": 601,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 71729.61357422173,
+            "duration": 444.677001953125
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_403",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 72147,
+        "startMax": 72447,
+        "durationMin": 239,
+        "durationMax": 589,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 72267.31538086385,
+            "duration": 435.903564453125
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_406",
+        "moveId": "switch_2",
+        "label": "2",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 72986,
+        "startMax": 73286,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#4d908e",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 72703.2354003936,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_408",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 73142,
+        "startMax": 73442,
+        "durationMin": 57,
+        "durationMax": 142,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 73101.2451660186,
+            "duration": 105.094482421875
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_410",
+        "moveId": "skill_hold",
+        "label": "长按技能",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 74841,
+        "startMax": 75141,
+        "durationMin": 177,
+        "durationMax": 435,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#8aa2ff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 74960.94985351712,
+            "duration": 322.0752929672599
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_412",
+        "moveId": "liberation",
+        "label": "共鸣解放",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 75876,
+        "startMax": 76176,
+        "durationMin": 58,
+        "durationMax": 143,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ff6b6b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 75995.58085937798,
+            "duration": 105.748779296875
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_430",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 79770,
+        "startMax": 80070,
+        "durationMin": 44,
+        "durationMax": 109,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 79889.52563476562,
+            "duration": 80.05483398586512
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_432",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 79948,
+        "startMax": 80248,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 80067.75444336236,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_433",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 79840,
+        "startMax": 80140,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 80151.57749023288,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_434",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 80128,
+        "startMax": 80428,
+        "durationMin": 221,
+        "durationMax": 544,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 80248.19609375298,
+            "duration": 402.9371093735099
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_437",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 80609,
+        "startMax": 80909,
+        "durationMin": 222,
+        "durationMax": 546,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 80728.85898437351,
+            "duration": 404.22587890923023
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_440",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 81100,
+        "startMax": 81400,
+        "durationMin": 228,
+        "durationMax": 561,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 81219.92026367038,
+            "duration": 415.24824219197035
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_443",
+        "moveId": "switch_2",
+        "label": "2",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 81591,
+        "startMax": 81891,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#4d908e",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 81711.08466797322,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_444",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 81599,
+        "startMax": 81899,
+        "durationMin": 215,
+        "durationMax": 529,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 81718.66533203423,
+            "duration": 391.84418945014477
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_447",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 82069,
+        "startMax": 82369,
+        "durationMin": 233,
+        "durationMax": 575,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 82188.78818359226,
+            "duration": 425.226806640625
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_450",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 82575,
+        "startMax": 82875,
+        "durationMin": 85,
+        "durationMax": 212,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 82695.07407226413,
+            "duration": 156.34033203125
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_451",
+        "moveId": "echo",
+        "label": "声骸",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 82761,
+        "startMax": 83061,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#b983ff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 82880.86899413913,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_452",
+        "moveId": "dodge_hold",
+        "label": "长按闪避",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 82819,
+        "startMax": 83119,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ffad4a",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 82939.19560547173,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_453",
+        "moveId": "echo",
+        "label": "声骸",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 82896,
+        "startMax": 83196,
+        "durationMin": 41,
+        "durationMax": 102,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#b983ff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 83016.46352539212,
+            "duration": 74.89448241889477
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_454",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 83001,
+        "startMax": 83301,
+        "durationMin": 165,
+        "durationMax": 405,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 83120.75068359822,
+            "duration": 300
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_455",
+        "moveId": "heavy_attack",
+        "label": "重击",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 83301,
+        "startMax": 83601,
+        "durationMin": 214,
+        "durationMax": 527,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#62b6cb",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 83420.75068359822,
+            "duration": 390.125
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_456",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 84060,
+        "startMax": 84360,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 83863.65639648587,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_460",
+        "moveId": "liberation",
+        "label": "共鸣解放",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 84135,
+        "startMax": 84435,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ff6b6b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 84193.11376953125,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_462",
+        "moveId": "echo",
+        "label": "声骸",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 84321,
+        "startMax": 84621,
+        "durationMin": 45,
+        "durationMax": 112,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#b983ff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 84441.49033202976,
+            "duration": 82.23154297471046
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_470",
+        "moveId": "switch_3",
+        "label": "3",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 86226,
+        "startMax": 86526,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#577590",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 86346.11269531399,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_473",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 86489,
+        "startMax": 86789,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 86609.22314453125,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_474",
+        "moveId": "echo",
+        "label": "声骸",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 86571,
+        "startMax": 86871,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#b983ff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 86690.88891601562,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_476",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 3,
+        "lane": "main",
+        "independent": false,
+        "startMin": 86707,
+        "startMax": 87007,
+        "durationMin": 45,
+        "durationMax": 112,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 86826.56411132962,
+            "duration": 82.35576172173023
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_478",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 86833,
+        "startMax": 87133,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 86953.23784179986,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_496",
+        "moveId": "skill",
+        "label": "技能",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 88738,
+        "startMax": 89038,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#6c8cff",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 88858.4355957061,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_497",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 88750,
+        "startMax": 89050,
+        "durationMin": 53,
+        "durationMax": 131,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 88869.9140625,
+            "duration": 96.43051757663488
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_499",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 1,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 88926,
+        "startMax": 89226,
+        "durationMin": 58,
+        "durationMax": 144,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 89046.2377441451,
+            "duration": 106.085205078125
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_509",
+        "moveId": "switch_2",
+        "label": "2",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 89309,
+        "startMax": 89609,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#4d908e",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 90500.60380859673,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_510",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 89429,
+        "startMax": 89729,
+        "durationMin": 35,
+        "durationMax": 48,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 90568.36289062351,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_528",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 89572,
+        "startMax": 89872,
+        "durationMin": 238,
+        "durationMax": 585,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 92916.66083984822,
+            "duration": 433.111083984375
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_531",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 90204,
+        "startMax": 90504,
+        "durationMin": 105,
+        "durationMax": 258,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 93436.16533203423,
+            "duration": 191.06396484375
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_533",
+        "moveId": "dodge_hold",
+        "label": "长按闪避",
+        "characterSlot": 2,
+        "lane": "main",
+        "independent": false,
+        "startMin": 90436,
+        "startMax": 90736,
+        "durationMin": 63,
+        "durationMax": 155,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ffad4a",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 93667.54443359375,
+            "duration": 114.68623047322035
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_534",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 2,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 90616,
+        "startMax": 90916,
+        "durationMin": 242,
+        "durationMax": 596,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 93848.4180175811,
+            "duration": 440.789306640625
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_539",
+        "moveId": "switch_1",
+        "label": "1",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 91572,
+        "startMax": 91872,
+        "durationMin": 35,
+        "durationMax": 35,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#43aa8b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 94686.11147461087,
+            "duration": 35
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "8dbf5069-2928-493d-aded-3969284afd18_unit_548",
+        "moveId": "liberation",
+        "label": "共鸣解放",
+        "characterSlot": 1,
+        "lane": "main",
+        "independent": false,
+        "startMin": 92945,
+        "startMax": 93245,
+        "durationMin": 37,
+        "durationMax": 93,
+        "preheatMs": 0,
+        "recoveryMs": 0,
+        "color": "#ff6b6b",
+        "advancesStep": true,
+        "samples": [
+          {
+            "recordingId": "initial",
+            "startTime": 96223.66953124851,
+            "duration": 68.37470703572035
+          }
+        ],
+        "manualFree": false,
+        "free": false
+      },
+      {
+        "id": "5a88fb12-d563-44d2-bddd-622f48d8a958",
+        "moveId": "basic_attack",
+        "label": "普攻",
+        "characterSlot": 3,
+        "lane": "independent",
+        "independent": false,
+        "startMin": 66974,
+        "startMax": 66974,
+        "durationMin": 119,
+        "durationMax": 119,
+        "color": "#7fd1ae",
+        "advancesStep": false,
+        "manualFree": false,
+        "free": false,
+        "samples": [],
+        "preheatMs": 0,
+        "recoveryMs": 0
+      }
+    ],
+    "periods": [],
+    "community": {
+      "id": "wwc_6ee409ab-5e8c-4558-a5e5-b564aa909b5c",
+      "name": "赞菲光轮椅4终夜启动+循环",
+      "tags": [
+        "进阶"
+      ],
+      "description": "",
+      "link": "https://b23.tv/I7PfNeq",
+      "characters": [
+        "赞妮",
+        "菲比",
+        "漂泊者·衍射"
+      ],
+      "rounds": 1,
+      "wheelchairEligible": false,
+      "exportedAt": 1785392940912,
+      "uploadVersion": "3.5",
+      "title": "赞菲光轮椅4终夜启动+循环",
+      "sourceFile": "赞菲光轮椅4终夜启动+循环-首动修正.json",
+      "sourceHash": "6ccadb1399bff4c98bf18a3db0d5e9f00dee896dfbf731e79ca96ca5e2db8c91",
+      "chartHash": "26b0872f458b660ac33ba3bae4f8015684835ffda80a47acd4ed53e4343c04dc",
+      "ingestedAt": 1785474249648,
+      "submitter": {
+        "nickname": "unknown",
+        "email": "un***@unknown.invalid"
+      }
+    },
+    "character": "赞妮 / 菲比 / 漂泊者·衍射",
+    "author": "unknown"
+  },
+  "contentLabels": {},
+  "moves": [
+    {
+      "id": "start_challenge",
+      "label": "开始",
+      "color": "#f5c542",
+      "independent": false,
+      "priority": 100,
+      "advancesStep": false
+    },
+    {
+      "id": "stop_recording",
+      "label": "结束记录",
+      "color": "#d7dee8",
+      "independent": false,
+      "priority": 100,
+      "advancesStep": false
+    },
+    {
+      "id": "basic_attack",
+      "label": "普攻",
+      "color": "#7fd1ae",
+      "independent": false,
+      "priority": 10,
+      "advancesStep": false
+    },
+    {
+      "id": "heavy_attack",
+      "label": "重击",
+      "color": "#62b6cb",
+      "independent": false,
+      "priority": 45,
+      "advancesStep": true
+    },
+    {
+      "id": "skill",
+      "label": "技能",
+      "color": "#6c8cff",
+      "independent": false,
+      "priority": 60,
+      "advancesStep": true
+    },
+    {
+      "id": "skill_hold",
+      "label": "长按技能",
+      "color": "#8aa2ff",
+      "independent": false,
+      "priority": 61,
+      "advancesStep": true
+    },
+    {
+      "id": "echo",
+      "label": "声骸",
+      "color": "#b983ff",
+      "independent": false,
+      "priority": 55,
+      "advancesStep": true
+    },
+    {
+      "id": "liberation",
+      "label": "共鸣解放",
+      "color": "#ff6b6b",
+      "independent": false,
+      "priority": 70,
+      "advancesStep": true
+    },
+    {
+      "id": "dodge_hold",
+      "label": "长按闪避",
+      "color": "#ffad4a",
+      "independent": false,
+      "priority": 51,
+      "advancesStep": true
+    },
+    {
+      "id": "switch_1",
+      "label": "1",
+      "color": "#43aa8b",
+      "independent": false,
+      "priority": 65,
+      "advancesStep": true
+    },
+    {
+      "id": "switch_2",
+      "label": "2",
+      "color": "#4d908e",
+      "independent": false,
+      "priority": 65,
+      "advancesStep": true
+    },
+    {
+      "id": "switch_3",
+      "label": "3",
+      "color": "#577590",
+      "independent": false,
+      "priority": 65,
+      "advancesStep": true
+    }
+  ],
+  "bindings": [
+    {
+      "moveId": "start_challenge",
+      "inputs": [
+        {
+          "code": "KeyF",
+          "label": "F"
+        }
+      ]
+    },
+    {
+      "moveId": "stop_recording",
+      "inputs": [
+        {
+          "code": "Escape",
+          "label": "Esc"
+        }
+      ]
+    },
+    {
+      "moveId": "basic_attack",
+      "inputs": [
+        {
+          "code": "MouseLeft",
+          "label": "鼠标左键"
+        }
+      ]
+    },
+    {
+      "moveId": "heavy_attack",
+      "inputs": [
+        {
+          "code": "MouseLeftHold",
+          "label": "鼠标左键长按"
+        }
+      ]
+    },
+    {
+      "moveId": "skill",
+      "inputs": [
+        {
+          "code": "KeyE",
+          "label": "E"
+        }
+      ]
+    },
+    {
+      "moveId": "skill_hold",
+      "inputs": [
+        {
+          "code": "KeyEHold",
+          "label": "E长按"
+        }
+      ]
+    },
+    {
+      "moveId": "echo",
+      "inputs": [
+        {
+          "code": "KeyQ",
+          "label": "Q"
+        }
+      ]
+    },
+    {
+      "moveId": "liberation",
+      "inputs": [
+        {
+          "code": "KeyR",
+          "label": "R"
+        }
+      ]
+    },
+    {
+      "moveId": "dodge_hold",
+      "inputs": [
+        {
+          "code": "MouseRightHoid",
+          "label": "MouseRightHoid"
+        },
+        {
+          "code": "Mouse4",
+          "label": "Mouse4"
+        }
+      ]
+    },
+    {
+      "moveId": "switch_1",
+      "inputs": [
+        {
+          "code": "Digit1",
+          "label": "1"
+        }
+      ]
+    },
+    {
+      "moveId": "switch_2",
+      "inputs": [
+        {
+          "code": "Digit2",
+          "label": "2"
+        }
+      ]
+    },
+    {
+      "moveId": "switch_3",
+      "inputs": [
+        {
+          "code": "Digit3",
+          "label": "3"
+        }
+      ]
+    }
+  ]
+}
